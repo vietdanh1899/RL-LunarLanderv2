@@ -1,0 +1,21 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.8.8",
+    "heartbeatAt": "2022-01-18T06:00:11.227941",
+    "startedAt": "2022-01-18T06:00:05.717415",
+    "docker": null,
+    "gpu": "NVIDIA GeForce MX150",
+    "gpu_count": 1,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "-f",
+        "C:\\Users\\nguye\\AppData\\Roaming\\jupyter\\runtime\\kernel-a44f9d28-8596-40d6-bc50-2701889b6255.json"
+    ],
+    "state": "running",
+    "program": "07-Deep-Q-Learning/LunarLading-v2.ipynb",
+    "root": "C:\\Users\\nguye",
+    "host": "DESKTOP-CAOBQHM",
+    "username": "nguye",
+    "executable": "C:\\Users\\nguye\\anaconda3\\python.exe"
+}
